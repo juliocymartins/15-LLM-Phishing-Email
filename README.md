@@ -48,7 +48,7 @@ llm_phishing_email.ipynb:  Contains the file for creating the BERT LLM algorithm
 4. Run the notebooks or scripts for each chapter in the indicated order.
 
 ### Author:
-Julio Martins
+Julio C. Y. Martins
 
 ### E-mail: 
 yamashitajulio@gmail.com
