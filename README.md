@@ -42,10 +42,10 @@ torch
 transformers
 
 ### How to Use
-1- Download the dataset from the provided links.
-2- Make sure the raw data is in the same directory as the notebook.
-3- Install the necessary Python packages.
-4- Run the notebooks or scripts for each chapter in the indicated order.
+1. Download the dataset from the provided links.
+2. Make sure the raw data is in the same directory as the notebook.
+3. Install the necessary Python packages.
+4. Run the notebooks or scripts for each chapter in the indicated order.
 
 ### Author:
 Julio Martins
