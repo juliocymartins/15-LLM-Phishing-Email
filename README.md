@@ -21,6 +21,8 @@ Approximately 82,500 emails
 39,595 legitimate emails
 This dataset allows researchers to study the content of phishing emails and the context in which they are sent to improve detection methods.
 
+Link to Dataset: [Phishing Email Dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset)
+
 ### Folders and Files:
 
 visualizations: Imagens de gráficos gerados durante o desenvolvimento do projeto.
