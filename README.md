@@ -31,6 +31,22 @@ data_wrangling_ceas.ipynb: : A file replicating the data preprocessing applied t
 
 llm_phishing_email.ipynb:  Contains the file for creating the BERT LLM algorithm. In this project, a data classifier was developed with over 99% accuracy.
 
+### Required Packages
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+torch
+transformers
+
+### How to Use
+1- Download the dataset from the provided links.
+2- Make sure the raw data is in the same directory as the notebook.
+3- Install the necessary Python packages.
+4- Run the notebooks or scripts for each chapter in the indicated order.
+
 ### Author:
 Julio Martins
 
