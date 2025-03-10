@@ -29,3 +29,9 @@ data_wrangling_ceas.ipynb: : A file replicating the data preprocessing applied t
 
 llm_phishing_email.ipynb:  Contains the file for creating the BERT LLM algorithm. In this project, a data classifier was developed with over 99% accuracy.
 
+### Autor:
+Julio Martins
+
+### E-mail: 
+yamashitajulio@gmail.com
+
