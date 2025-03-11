@@ -25,7 +25,7 @@ Link to Dataset: [Phishing Email Dataset](https://www.kaggle.com/datasets/nasera
 
 ### Folders and Files:
 
-visualizations: Imagens de gráficos gerados durante o desenvolvimento do projeto.
+visualizations: Images of graphs generated during the development of the project.
 
 data_wrangling_ceas.ipynb: : A file replicating the data preprocessing applied to merge with the final project dataset. It also contains a brief data analysis of the final dataset.
 
