@@ -1,5 +1,5 @@
 # LLM-Phishing-Email Project
-For this project, I used the final phishing email dataset and applied a large language model (LLM) for classification, utilizing Hugging Face and BERT. The goal was to train the model to classify phishing and legitimate emails.
+For this project, I used the final phishing email dataset and applied BERT for classification. The goal was to train the model to classify phishing and legitimate emails.
 
 Additionally, I performed preprocessing on the CEAS_08 dataset in the same way it was done to merge it with the phishing_email dataset. This part of the work, serves not only as a study for learning and understanding the methodology but also demonstrates how to replicate the process for practical applications.
 
